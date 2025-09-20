@@ -1,6 +1,6 @@
-## AtliQ-Sales-Analysis :
+# AtliQ Hardware
 
-
+## Sales Overview :
 
 - **Project objective:** 
 
